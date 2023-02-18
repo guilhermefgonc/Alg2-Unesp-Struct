@@ -1,6 +1,5 @@
 /*
-Lista 1 - Exercício 5 
-NOME: Guilherme Ferreira Gonçalves    RA: 221020561
+NOME: Guilherme Ferreira Gonçalves
 DATA: 12/2022
 
 Suponha um cadastro de alunos onde cada aluno contém os seguintes campos: Nome, 
